@@ -1,0 +1,34 @@
+C:\Disk-DATA\ASP.NET\Login System\Login System\bin\Debug\net8.0\appsettings.Development.json
+C:\Disk-DATA\ASP.NET\Login System\Login System\bin\Debug\net8.0\appsettings.json
+C:\Disk-DATA\ASP.NET\Login System\Login System\bin\Debug\net8.0\Login System.staticwebassets.runtime.json
+C:\Disk-DATA\ASP.NET\Login System\Login System\bin\Debug\net8.0\Login System.exe
+C:\Disk-DATA\ASP.NET\Login System\Login System\bin\Debug\net8.0\Login System.deps.json
+C:\Disk-DATA\ASP.NET\Login System\Login System\bin\Debug\net8.0\Login System.runtimeconfig.json
+C:\Disk-DATA\ASP.NET\Login System\Login System\bin\Debug\net8.0\Login System.dll
+C:\Disk-DATA\ASP.NET\Login System\Login System\bin\Debug\net8.0\Login System.pdb
+C:\Disk-DATA\ASP.NET\Login System\Login System\bin\Debug\net8.0\FluentValidation.dll
+C:\Disk-DATA\ASP.NET\Login System\Login System\obj\Debug\net8.0\Login System.csproj.AssemblyReference.cache
+C:\Disk-DATA\ASP.NET\Login System\Login System\obj\Debug\net8.0\Login System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Disk-DATA\ASP.NET\Login System\Login System\obj\Debug\net8.0\Login System.AssemblyInfoInputs.cache
+C:\Disk-DATA\ASP.NET\Login System\Login System\obj\Debug\net8.0\Login System.AssemblyInfo.cs
+C:\Disk-DATA\ASP.NET\Login System\Login System\obj\Debug\net8.0\Login System.csproj.CoreCompileInputs.cache
+C:\Disk-DATA\ASP.NET\Login System\Login System\obj\Debug\net8.0\Login System.MvcApplicationPartsAssemblyInfo.cache
+C:\Disk-DATA\ASP.NET\Login System\Login System\obj\Debug\net8.0\Login System.RazorAssemblyInfo.cache
+C:\Disk-DATA\ASP.NET\Login System\Login System\obj\Debug\net8.0\Login System.RazorAssemblyInfo.cs
+C:\Disk-DATA\ASP.NET\Login System\Login System\obj\Debug\net8.0\staticwebassets.build.json
+C:\Disk-DATA\ASP.NET\Login System\Login System\obj\Debug\net8.0\staticwebassets.development.json
+C:\Disk-DATA\ASP.NET\Login System\Login System\obj\Debug\net8.0\staticwebassets\msbuild.Login System.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Disk-DATA\ASP.NET\Login System\Login System\obj\Debug\net8.0\staticwebassets\msbuild.build.Login System.props
+C:\Disk-DATA\ASP.NET\Login System\Login System\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Login System.props
+C:\Disk-DATA\ASP.NET\Login System\Login System\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Login System.props
+C:\Disk-DATA\ASP.NET\Login System\Login System\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Disk-DATA\ASP.NET\Login System\Login System\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Disk-DATA\ASP.NET\Login System\Login System\obj\Debug\net8.0\scopedcss\bundle\Login System.styles.css
+C:\Disk-DATA\ASP.NET\Login System\Login System\obj\Debug\net8.0\scopedcss\projectbundle\Login System.bundle.scp.css
+C:\Disk-DATA\ASP.NET\Login System\Login System\obj\Debug\net8.0\Login Sy.35374A8A.Up2Date
+C:\Disk-DATA\ASP.NET\Login System\Login System\obj\Debug\net8.0\Login System.dll
+C:\Disk-DATA\ASP.NET\Login System\Login System\obj\Debug\net8.0\refint\Login System.dll
+C:\Disk-DATA\ASP.NET\Login System\Login System\obj\Debug\net8.0\Login System.pdb
+C:\Disk-DATA\ASP.NET\Login System\Login System\obj\Debug\net8.0\Login System.genruntimeconfig.cache
+C:\Disk-DATA\ASP.NET\Login System\Login System\obj\Debug\net8.0\ref\Login System.dll
+C:\Disk-DATA\ASP.NET\Login System\Login System\bin\Debug\net8.0\users.json

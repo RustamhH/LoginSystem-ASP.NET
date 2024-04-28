@@ -1,0 +1,12 @@
+﻿@model List<User>
+
+<ul>
+    @foreach (var user in Model)
+    {
+        <li>Name: @user.Name</li>
+        <li>Surname: @user.Surname</li>
+        <li>Username: @user.Username</li>
+        <li>Email: @user.Email</li>
+        <li>Password: @user.Password</li>
+    }
+</ul>

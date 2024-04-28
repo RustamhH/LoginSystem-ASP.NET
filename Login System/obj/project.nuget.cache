@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "95UnUDbTlWb/AP7M5Zy3sZlhpObNrZIEj6kbUnfrdB+CPE1Sq1pf0flX/z6THeW98TQj68zL5iU2vzZr4QlxVg==",
+  "success": true,
+  "projectFilePath": "C:\\Disk-DATA\\ASP.NET\\Login System\\Login System\\Login System.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RustamHasanli\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}

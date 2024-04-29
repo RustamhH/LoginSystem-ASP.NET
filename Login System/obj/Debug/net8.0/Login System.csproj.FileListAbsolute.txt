@@ -32,3 +32,4 @@ C:\Disk-DATA\ASP.NET\Login System\Login System\obj\Debug\net8.0\Login System.pdb
 C:\Disk-DATA\ASP.NET\Login System\Login System\obj\Debug\net8.0\Login System.genruntimeconfig.cache
 C:\Disk-DATA\ASP.NET\Login System\Login System\obj\Debug\net8.0\ref\Login System.dll
 C:\Disk-DATA\ASP.NET\Login System\Login System\bin\Debug\net8.0\users.json
+C:\Disk-DATA\ASP.NET\Login System\Login System\obj\Debug\net8.0\Login System.sourcelink.json

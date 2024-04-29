@@ -7,5 +7,14 @@
     "Email": "rustamh2006@gmail.com",
     "Password": "Rustem123@#",
     "ConfirmPassword": "Rustem123@#"
+  },
+  {
+    "Id": "bdcc740b-97b8-433c-902e-b6da744a0103",
+    "Name": "Rustem",
+    "Surname": "Hesenli",
+    "Username": "RustamHHHHH",
+    "Email": "hesen@gmail.com",
+    "Password": "Hesen123@#",
+    "ConfirmPassword": "Hesen123@#"
   }
 ]

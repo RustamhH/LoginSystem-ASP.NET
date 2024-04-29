@@ -1,12 +1,15 @@
 ﻿@model List<User>
 
-<ul>
+<div style="display:flex;flex-wrap:wrap;gap:30px">
     @foreach (var user in Model)
     {
-        <li>Name: @user.Name</li>
-        <li>Surname: @user.Surname</li>
-        <li>Username: @user.Username</li>
-        <li>Email: @user.Email</li>
-        <li>Password: @user.Password</li>
+        <div style="width:210px;padding: 13px; box-shadow: 0px 1px 15px 0px #00000040; border-radius: 12px;">
+            <p><b>Name: </b>@user.Name</p>
+            <p><b>Surname: </b>@user.Surname</p>
+            <p><b>Username: </b>@user.Username</p>
+            <p><b>Email: </b>@user.Email</p>
+            <p><b>Password: </b>@user.Password</p>
+        </div>       
+        
     }
-</ul>
+</div>
